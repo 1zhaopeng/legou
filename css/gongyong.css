@@ -1,0 +1,119 @@
+/* 字体 */
+body{
+    font-family: SimHei;
+    font-size: 14px;
+    color: #333333;
+}
+input{
+    padding: 0;
+    margin: 0px;
+    outline: none;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+/* 版心 */
+.lg-container{
+    width: 1200px;
+    margin: 0 auto;
+  }
+  .fl{
+      float: left;
+  }
+  .fr{
+      float: right;
+  }
+  .clearfix:after{
+      content: "";
+      height: 0;
+      display: block;
+      clear: both;
+      zoom:1 ;
+  }
+  a{
+      text-decoration: none;
+  }
+/* 字体 */
+.f16{
+    font-size: 16px;
+}
+.f24{
+    font-size: 24px;
+}
+.f22{
+    font-size: 22px;
+}
+.f20{
+    font-size: 20px;
+}
+.f19{
+    font-size: 19px;
+}
+.f30{
+    font-size: 30px;
+}
+/* 浮动 */
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+/* marigin */
+.mtop48{
+margin-top: 48px;
+}
+
+/* 文字居中 */
+.textac{
+text-align: center;
+}
+/* 图片垂直居中 */
+.vam{
+    vertical-align: middle;
+}
+/* 字体颜色 */
+.bcf4{
+    background-color: #f4f4f4;
+}
+.bcsb{
+    background-color: skyblue;
+}
+.cr{
+   color: red;
+}
+.rg{
+    color: rgb(244,178,18)
+}
+.bgrgb{
+    background-color:rgb(245,245,245);
+}
+.c60{
+   color: #f60;
+}
+.col60{
+    color: #666666;
+}
+
+
+/* 下边框 */
+.brb60{
+    border-bottom: 2px solid #f60;
+}
+.brt60{
+    border-top: 2px solid #f60;
+}
+.brbf{
+    border-bottom: 1px solid #bfbfbf
+}
+.bd{
+    border: 1px solid #bfbfbf;
+}
+/* 首行缩进 */
+.tindent80{
+    text-indent: 80px;
+    }
+.tindent20{
+        text-indent: 20px;
+        }

@@ -1,0 +1,55 @@
+@charset "UTF-8";
+ /* 头部 */
+ header{
+  
+    height: 112px;
+}
+header .top{
+    height: 28px;
+    line-height: 28px;
+    background-color: #101010;
+    /* width: 100%; */
+}
+header .top .txtur1{
+color: #e6e6e6;
+font-size: 18px;
+text-indent: 210px;
+margin-left: 147px;
+}
+header .top .logintxtbox{
+    color:#bfbfbf;
+    margin-right:158px;
+}
+header .top img{
+    margin-left: 159px;
+}
+header .top .logintxtbox a{
+    color: #f60;
+}
+header .top div:first-child{
+    position: relative;
+}
+header .top h2{
+    position: absolute;
+    top:0;
+    margin: 0px;
+
+}
+header .landing-b{
+    margin-left: 370px;
+    margin-top: 20px;
+}
+header .landing-a{
+    margin-right: 200px;
+    float: right;
+}
+/* 页脚 */
+#foot .jdg li{
+    color:#101010;
+    list-style: none;
+    text-align: center;
+    font-size: 16px;
+}
+#foot .jdg{
+   margin-top: 74px;
+}

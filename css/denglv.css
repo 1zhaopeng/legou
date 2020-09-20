@@ -1,0 +1,155 @@
+@charset "UTF-8";
+ /* 头部 */
+ header{
+  
+    height: 112px;
+}
+header .top{
+    height: 28px;
+    line-height: 28px;
+    background-color: #101010;
+    /* width: 100%; */
+}
+header .top .txtur1{
+color: #e6e6e6;
+font-size: 18px;
+text-indent: 210px;
+margin-left: 147px;
+}
+header .top .logintxtbox{
+    color:#bfbfbf;
+    margin-right:158px;
+}
+header .top img{
+    margin-left: 159px;
+}
+header .top .logintxtbox a{
+    color: #f60;
+}
+header .top div:first-child{
+    position: relative;
+}
+header .top h2{
+    position: absolute;
+    top:0;
+    margin: 0px;
+
+}
+
+/* 购物车订单 */
+header .searchbox .cartourder{
+    width: 200px;
+    height: 36px;
+    margin-left: 36px;
+}
+header .searchbox .cartorder a{
+    width: 113px;
+    height: 39px;
+    line-height: 36px;
+    text-align: center;
+    background-color: #f60;
+}
+header .searchbox .cartorder a span{
+    background:url(../img/bgicon.png);
+    background-position: 0 0 ;
+    width: 39px;
+    height: 35px;
+    display: inline-block;
+}
+/* 购物车 */
+header .searchbox .cartorder a:first-child{
+    color: #ffffff;
+    
+}
+header .searchbox .cartorder a:last-child{
+    color: #808080;
+    font-size: 16px;
+    background-color: #ebebeb;
+    border: solid 1px #cccccc;
+    width: 100px;
+    float: left;
+}
+head .searchbox .cartorder{
+    width: 200px;
+    height: 36px;
+}
+
+header .searchbox form{
+    width: 440px;
+    height: 36px;
+    border: 2px solid orangered;
+    margin-right: 20px;
+}
+header .searchbox form input{
+width: 389px;
+height: 35px;
+border: 0;
+text-indent: 20px;
+color: #bfbfbf;
+}
+header .searchbox form .next{
+    width: 50px;
+    height: 35px;
+    background: url(../img/bgicon.png);
+    background-position: 0 0;
+    border: 0;
+}
+header .searchbox{
+   padding-top: 1px;
+}
+/* 导航栏 */
+#nav li{
+    float: left;
+    display: block;
+    margin-right: 46px;
+ 
+}
+#nav{
+   margin-left: 160px;
+   float: left;
+   margin-left: 238px;
+   margin-top:18px;
+   
+}
+/* 广告 */
+#advertising{
+    position: relative;
+}
+#advertising .advertising-c{
+    width: 350px;
+    height: 370px;
+    position:absolute;
+    right: 120px;
+    top: 62px;
+ 
+}
+#advertising .advertising-c ul li{
+    list-style: none;
+    width: 175px;
+    float: left;
+    margin-top: 30px;
+    text-align: center;
+}
+#advertising .advertising-c .ind{
+    text-align: center;
+    width: 350px;
+line-height:  136px;
+}
+
+header .landing-b{
+    margin-left: 370px;
+    margin-top: 20px;
+}
+
+
+/* 页尾 */
+#foot .jdg li{
+    color:#101010;
+    list-style: none;
+    text-align: center;
+    font-size: 16px;
+}
+#foot .jdg{
+   margin-top: 74px;
+}
+

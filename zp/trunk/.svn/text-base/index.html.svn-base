@@ -1,0 +1,1710 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <!-- 引入重置样式 -->
+    <link rel="stylesheet" href="./css/normalize.css">
+    <!-- 引入公共样式 -->
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/slider.css">
+    <!-- 引入当前样式 -->
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+
+<body>
+    <!-- 头部 -->
+    <header class="lg-container">
+        <div class="top">
+            <div class="   clearfix">
+                <h2>
+                    <a href="index.html">
+                        <img src="./img/logo.jpg" alt="">
+                    </a>
+                </h2>
+                <div class="txtur1 fl">
+                    legochina.cn
+                </div>
+                <div class="    fr">
+                    欢迎光临
+                    <a href="#">乐购</a>，请
+                    <a href="">登录</a>\
+                    <a href="">注册</a>
+                </div>
+            </div>
+        </div>
+        <!-- 搜索区域 -->
+        <div class="searchbox    clearfix">
+            <div class="cartorder fr">
+                <a href="#" class="fl">
+                    <span class="fl"></span>购物车
+                    <i>3</i>
+                </a>
+                <a href="#">我的订单</a>
+            </div>
+            <form action="#" class="fr">
+                <input type="text" name="fl" placeholder="创意文具">
+                <input type="submit" value="" class="fr next">
+            </form>
+
+        </div>
+
+        <ul id="nav" class="   clearfix">
+
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+            <li>图书</li>
+        </ul>
+    </header>
+    <!-- banner区域 -->
+    <section id="banner" class="lg-container clearfix">
+
+        <ul class="menulist">
+            <li>
+                <p>
+                    <a href="#">图书.电子书.童书</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="#">创意文具</a>
+                </p>
+            </li>
+        </ul>
+        <div class="slidebox clearfix">
+            <div class="pptbox fl" id="slider">
+                <ul class="innerwrapper">
+                    <li>
+                        <a href="#">
+                            <img src="./img/banner1.jpg" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="./img/banner2.jpg" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="./img/banner3.jpg" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="./img/banner4.jpg" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <img src="./img/banner5.jpg" />
+                        </a>
+                    </li>
+                </ul>
+                <ul class="controls">
+                    <li class="current">1</li>
+                    <li>2</li>
+                    <li>3</li>
+                    <li>4</li>
+                    <li>5</li>
+                </ul>
+                <span class="btnleft"></span>
+                <span class="btnright"></span>
+            </div>
+
+        </div>
+
+    </section>
+    <!-- 今日推荐 -->
+    <section id="recommend" class="lg-container clearfix ">
+        <div>
+            <p class="recommends fs24">乐购.今日推荐</p>
+        </div>
+        <div class="recom">
+            <ul class="fl">
+                <li>
+                    <img src="./img/index06_05.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_05.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_05.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_05.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_05.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_05.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_11.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_11.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_11.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_11.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_11.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+                <li>
+                    <img src="./img/index06_11.jpg" alt="">
+                    <span>
+                        <img src="./img/index05_18.jpg" alt="">
+                        <p>黑爵青蜂侠六键电竞游戏鼠标</p>
+                        <p>全国联保 一年免费包换</p>￥:299</li>
+            </ul>
+        </div>
+
+    </section>
+    <!-- 电子书 -->
+    <section id="ebox" class="lg-container clearfix">
+        <div class="boxs-left fl clearfix">
+            <p class=" fs24 fl clearfix">图书 电子书</p>
+            <ul class="recommends fs24 fr">
+                <li class="active">最新上架</li>
+                <li>独家畅销</li>
+                <li>电子书</li>
+            </ul>
+
+            <div class="con fl clearfix">
+                <div class="cont fl">
+                    <img src="./img/index7_07.jpg" alt="">
+                    <ul>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                        <li>
+                            <a href="">图书</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="boolslist fl clearfix cur ">
+                    <ul>
+                        <li>
+                            <div class="pptbox fl" id="slider">
+                                <ul class="innerwrapper">
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner1.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner2.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner3.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner4.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner5.jpg" />
+                                        </a>
+                                    </li>
+                                </ul>
+                                <ul class="controls">
+                                    <li class="current">1</li>
+                                    <li>2</li>
+                                    <li>3</li>
+                                    <li>4</li>
+                                    <li>5</li>
+                                </ul>
+                                <span class="btnleft"></span>
+                                <span class="btnright"></span>
+                            </div>
+                        </li>
+                        <li>
+                            <p>奥运狂欢1</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢1</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢1</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢1</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢1</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢1</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="boolslist fl clearfix  ">
+                    <ul>
+                        <li>
+                            <div class="pptbox fl" id="slider">
+                                <ul class="innerwrapper">
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner1.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner2.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner3.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner4.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner5.jpg" />
+                                        </a>
+                                    </li>
+                                </ul>
+                                <ul class="controls">
+                                    <li class="current">1</li>
+                                    <li>2</li>
+                                    <li>3</li>
+                                    <li>4</li>
+                                    <li>5</li>
+                                </ul>
+                                <span class="btnleft"></span>
+                                <span class="btnright"></span>
+                            </div>
+                        </li>
+                        <li>
+                            <p>奥运狂欢2</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢2</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢2</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢2</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢2</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢2</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="boolslist fl clearfix ">
+                    <ul>
+                        <li>
+                            <div class="pptbox fl" id="slider">
+                                <ul class="innerwrapper">
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner1.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner2.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner3.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner4.jpg" />
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="./img/banner5.jpg" />
+                                        </a>
+                                    </li>
+                                </ul>
+                                <ul class="controls">
+                                    <li class="current">1</li>
+                                    <li>2</li>
+                                    <li>3</li>
+                                    <li>4</li>
+                                    <li>5</li>
+                                </ul>
+                                <span class="btnleft"></span>
+                                <span class="btnright"></span>
+                            </div>
+                        </li>
+                        <li>
+                            <p>奥运狂欢3</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢3</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢3</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢3</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢3</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                        <li>
+                            <p>奥运狂欢3</p>
+                            <p>10万电子书 直降50%</p>
+                            <img src="./img/index09_05.jpg" alt="">
+                            <p>￥49
+                                <s>￥49</s>
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="boxs-right fr clearfix">
+            <h4>新手畅销榜</h4>
+            <ul class="clearfix">
+                <li>
+                    <div>
+                        <span>1</span>
+                        <img src="img/index08_05.jpg" alt="">
+                        <p class="niss"> "从你的世界路过 入选央视“2014中国好书”的80后作品！十年华语畅销小说，王家卫陈国富倾力推荐， 1500万次转发，超4亿次阅读"</p>
+                    </div>
+                </li>
+                <li>
+                    <p>2 就喜欢你看不惯我 又干不</p>
+                </li>
+                <li>
+                    <p>3 就喜欢你看不惯我 又干不</p>
+                </li>
+                <li>
+                    <p>4 就喜欢你看不惯我 又干不</p>
+                </li>
+                <li>
+                    <p>5 就喜欢你看不惯我 又干不</p>
+                </li>
+                <li>
+                    <p>6 就喜欢你看不惯我 又干不</p>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <!-- 服装 -->
+    <section id="cloth" class="lg-container clearfix">
+        <div class="bont" style="width: 1200px;height: 540px; ">
+            <div class="clearfix like">
+                <p class="fl fs24" tyle="width: 1200px;height: 30px; border: 1px solid red">服装</p>
+                <ul class="fr">
+                    <li class="active">国际名品</li>
+                    <li>户外装备</li>
+                    <li>运动潮流</li>
+                </ul>
+            </div>
+
+            <div class="fl niss clearfix" style="width: 238px;height: 500px; border: 1px solid #bfbfbf">
+                <img src="./img/index7_17.jpg" alt="">
+                <ul>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="lang cur">
+            <div class="fl zlu clearfix " style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class=" clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            </div>
+
+            <div class="lang ">
+            <div class="fl zlu clearfix" style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class=" clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/index7_17.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="lang ">
+            <div class="fl zlu clearfix" style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class=" clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/index23_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+            <div class="niie">
+                <ul class="fl">
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-- 户外运动 -->
+    <section id="sport" class="lg-container clearfix">
+        <div class="bont" style="width: 1200px;height: 540px; ">
+            <div class="clearfix like">
+                <p class="fl fs24" tyle="width: 1200px;height: 30px; border: 1px solid red">户外运动</p>
+                <ul class="fr">
+                    <li class="active">女装内衣</li>
+                    <li>热销男装</li>
+                    <li>精品鞋靴</li>
+                </ul>
+            </div>
+
+            <div class="fl niss clearfix" style="width: 238px;height: 500px; border: 1px solid #bfbfbf">
+                <img src="./img/160729pc-A.jpg" alt="">
+                <ul>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="lang cur">
+            <div class="fl zlu clearfix" style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class=" clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/160801-17862pc-C.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/160801-17862pc-C.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/160801-17862pc-C.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="lang ">
+            <div class="fl zlu clearfix" style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class=" clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/index100_05.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/160801-17862pc-C.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/160801-17862pc-C.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="lang ">
+            <div class="fl zlu clearfix" style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class=" clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/160801-17862pc-C.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/160801-17862pc-C.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/160801-17862pc-C.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/160729-12609pc-D.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+            <div class="niie clearfix">
+                <ul class="fl">
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-- 童装 -->
+    <section id="childcloth" class="lg-container clearfix">
+        <div class="bont" style="width: 1200px;height: 540px; ">
+            <div class="clearfix like">
+                <p class="fl fs24" tyle="width: 1200px;height: 30px; border: 1px solid red">童装</p>
+                <ul class="fr">
+                    <li class="active">儿童服装</li>
+                    <li>婴儿装</li>
+                    <li>小潮童鞋</li>
+                </ul>
+            </div>
+
+            <div class="fl niss clearfix" style="width: 238px;height: 500px; border: 1px solid #bfbfbf">
+                <img src="./img/86030026097384_y.jpg" alt="">
+                <ul>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                    <li>
+                        <a href="">图书</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="lang cur">
+            <div class="fl zlu clearfix" style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class="clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/55260017675581_y.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/55260017675581_y.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/55260017675581_y.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="lang">
+            <div class="fl zlu clearfix" style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class="clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/55260017675581_y.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/55260017675581_y.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="lang">
+            <div class="fl zlu clearfix" style="width: 430px; height: 500px; border: 1px solid #bfbfbf">
+                <ul>
+                    <li>
+                        <div class="pptbox fl" id="slider">
+                            <ul class="innerwrapper">
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner1.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner2.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner3.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner4.jpg" />
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <img src="./img/banner5.jpg" />
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="controls">
+                                <li class="current">1</li>
+                                <li>2</li>
+                                <li>3</li>
+                                <li>4</li>
+                                <li>5</li>
+                            </ul>
+                            <span class="btnleft"></span>
+                            <span class="btnright"></span>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="./img/index11_08.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+            <div class="clearfix nike">
+                <ul>
+                    <li class="psd">
+                        <img src="./img/55260017675581_y.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/55260017675581_y.jpg" alt="">
+                    </li>
+                    <li class="psd">
+                        <img src="./img/55260017675581_y.jpg" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                    <li class="sky">
+                        <img src="./img/55260018537435_1_o.png" alt="">
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+
+            <div class="niie fl clearfix">
+                <ul class="fl">
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/logo13_14.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-- 家具 -->
+    <section id="house" class="lg-container ">
+        <div class="clearfix like">
+            <p class="fl fs24">家具日用</p>
+        </div>
+        <div class="fl liss clearfix"></div>
+        <img src="img/index21_05.jpg" alt="">
+        </div>
+        <div class="fr clearfix" style="width: 711px;height: 500px; ">
+            <ul>
+                <li class="bosss">
+                    <img src="img/index22_05.jpg" alt="">
+                </li>
+                <li class="bosss">
+                    <img src="img/index22_05.jpg" alt="">
+                </li>
+                <li class="bosss">
+                    <img src="img/index22_05.jpg" alt="">
+                </li>
+                <li class="bosss">
+                    <img src="img/index22_05.jpg" alt="">
+                </li>
+                <li class="link">
+                    <img src="img/index23_08.jpg" alt="">
+                </li>
+                <li class="link">
+                    <img src="img/index23_08.jpg" alt="">
+                </li>
+                <li class="link">
+                    <img src="img/index23_08.jpg" alt="">
+                </li>
+                <li class="link">
+                    <img src="img/index23_08.jpg" alt="">
+                </li>
+            </ul>
+        </div>
+
+    </section>
+    <!-- 商品推广 -->
+    <section id="spread" class="lg-container">
+        <div class="clearfix like">
+            <p class="fl fs24">家具日用</p>
+        </div>
+        <div class="clearfix" style="width: 1200px;height: 588px;">
+            <ul>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+                <li>
+                    <img src="img/index25_12.jpg" alt="">
+                    <p>Pigeon法国制奶嘴，无毒天然乳胶</p>
+                    <p class="fs24">￥:189</p>
+                    <p>已有988条评价</p>
+                </li>
+            </ul>
+        </div>
+    </section>
+         
+    <!-- 页尾 -->
+    <footer id="foot">
+        <div class="lang"  style="height: 100px;">
+            <ul class="lg-container">
+                <li><img src="./img/222_11.png" alt=""></li>
+                <li><img src="img/222_13(1).png" alt=""></li>
+                <li><img src="img/222_15.png" alt=""></li>
+                <li><img src="img/222_17.png" alt=""></li>
+            </ul>
+        </div>
+          
+        <div class="flel " style="height: 370px;width: 1031px;">
+            <ul class="mks">
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+                <li>购物指南</li>
+            </ul>
+            <img src="./img/logo_00.png" alt="">
+            <div class="jdg">
+            <ul >
+                <li>公司简介  |  Investor Relations  |  网站联盟  |  乐购招商  |  机构销售  |  手机乐购  |  官方Blog   |  热词搜索</li>
+                <li>Copyright (C) 乐购网 2004-2016, All Rights Reserved</li>
+            </ul>
+        </div>
+        </div>
+      
+    </footer>
+    <script src="./lib/jquery.min.js"></script>
+    <script src="./lib/jquery.slidebox.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>

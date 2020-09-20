@@ -1,0 +1,138 @@
+/* 头部 */
+header{
+  
+    height: 112px;
+}
+header .top{
+    height: 28px;
+    line-height: 28px;
+    background-color: #101010;
+    width: 100%;
+}
+header .top .txtur1{
+color: #e6e6e6;
+font-size: 18px;
+text-indent: 210px;
+margin-left: 147px;
+}
+header .top .logintxtbox{
+    color:#bfbfbf;
+    margin-right:158px;
+}
+header .top img{
+    margin-left: 159px;
+}
+header .top .logintxtbox a{
+    color: #f60;
+}
+header .top div:first-child{
+    position: relative;
+}
+header .top h2{
+    position: absolute;
+    top:0;
+    margin: 0px;
+
+}
+header .searchbox .searchbox-a{
+    width: 198px;
+    height: 50px;
+    
+  right: 0;
+  top: 55px;
+
+   position: absolute;
+}
+
+
+header .searchbox form{
+    width: 440px;
+    height: 36px;
+    border: 2px solid orangered;
+    margin-right: 20px;
+}
+header .searchbox form input{
+width: 389px;
+height: 35px;
+border: 0;
+text-indent: 20px;
+color: #bfbfbf;
+}
+header .searchbox form .next{
+    width: 50px;
+    height: 35px;
+    background: url(../img/bgicon.png);
+    background-position: 0 0;
+    border: 0;
+}
+header .searchbox{
+   padding-top: 1px;
+   position: relative;
+}
+
+
+
+
+/* 页尾 */
+
+#foot .lang li{
+    float: left;
+    text-align: center;
+    list-style: none;
+   margin-left: 145px;
+   margin-top: 26px;
+ 
+    
+}
+#foot .flel{
+    margin: 0 357px;
+    padding-top: 20px;
+}
+#foot .mks li{
+    list-style: none;
+    margin-left: 108px;
+    margin-top: 10px;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+ 
+}
+
+#foot .flel img{
+    margin-top: 20px;
+    
+}
+#foot .jdg li{
+    color:#101010;
+    list-style: none;
+    text-align: center;
+    font-size: 16px;
+    margin-left: -168px
+}
+#foot .jdg{
+   margin-top: 74px;
+}
+/* 人气单品 */
+#room div li{
+    width: 238px;
+    float: left;
+    list-style: none;
+    text-align:center;
+    
+}
+#room{
+    margin-top: 20px;
+}
+
+#room .like{
+    border-bottom: 2px solid #f60;
+}
+
+#room div li:hover{
+    background-color:#cccccc;
+}
+#room .like-a{
+    margin-top: 87px;
+}
+
+

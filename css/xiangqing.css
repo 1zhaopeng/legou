@@ -1,0 +1,328 @@
+@charset "UTF-8";
+
+  /* 头部 */
+header{
+  
+    height: 112px;
+}
+header .top{
+    height: 28px;
+    line-height: 28px;
+    background-color: #101010;
+    width: 100%;
+}
+header .top .txtur1{
+color: #e6e6e6;
+font-size: 18px;
+text-indent: 210px;
+margin-left: 147px;
+}
+header .top .logintxtbox{
+    color:#bfbfbf;
+    margin-right:158px;
+}
+header .top img{
+    margin-left: 159px;
+}
+header .top .logintxtbox a{
+    color: #f60;
+}
+header .top div:first-child{
+    position: relative;
+}
+header .top h2{
+    position: absolute;
+    top:0;
+    margin: 0px;
+
+}
+
+/* 购物车订单 */
+header .searchbox .cartourder{
+    width: 200px;
+    height: 36px;
+    margin-left: 36px;
+}
+header .searchbox .cartorder a{
+    width: 113px;
+    height: 39px;
+    line-height: 36px;
+    text-align: center;
+    background-color: #f60;
+}
+header .searchbox .cartorder a span{
+    background:url(../img/bgicon.png);
+    background-position: 0 0 ;
+    width: 39px;
+    height: 35px;
+    display: inline-block;
+}
+/* 购物车 */
+header .searchbox .cartorder a:first-child{
+    color: #ffffff;
+    
+}
+header .searchbox .cartorder a:last-child{
+    color: #808080;
+    font-size: 16px;
+    background-color: #ebebeb;
+    border: solid 1px #cccccc;
+    width: 100px;
+    float: left;
+}
+head .searchbox .cartorder{
+    width: 200px;
+    height: 36px;
+}
+
+header .searchbox form{
+    width: 440px;
+    height: 36px;
+    border: 2px solid orangered;
+    margin-right: 20px;
+}
+header .searchbox form input{
+width: 389px;
+height: 35px;
+border: 0;
+text-indent: 20px;
+color: #bfbfbf;
+}
+header .searchbox form .next{
+    width: 50px;
+    height: 35px;
+    background: url(../img/bgicon.png);
+    background-position: 0 0;
+    border: 0;
+}
+header .searchbox{
+   padding-top: 1px;
+}
+
+/* 导航栏 */
+#nav li{
+    float: left;
+    display: block;
+    margin-right: 46px;
+ 
+}
+#nav{
+   margin-left: 160px;
+   float: left;
+   margin-left: 238px;
+   margin-top:18px;
+   
+}
+
+/* 图书 */
+#books .books-l{
+    /* border: 1px solid red; */
+    width: 340px;
+    height: 529px;
+}
+#books .books-l p{
+  margin-top: 28px;
+  text-align: center;
+}
+
+
+
+#books .books-r{
+    /* border: 1px solid red; */
+    margin-left: 20px;
+    position: relative;
+}
+#books .books-r .books-j{
+position:absolute;
+width: 70px;
+height: 50px;
+border-left: 1px solid #cccccc;
+
+right: 0;
+top: 178px;
+}
+#books .books-r .books-j p{
+    margin: 0;
+    padding: 5px;
+
+}
+
+
+#books .books-r p{
+  
+    margin-top: 33px;
+    margin-bottom: 20px;
+ 
+}
+#books .books-r .le{
+    background: url(../img/discount.png) no-repeat;
+    background-size: 94px 26px;
+    display: inline-block;
+    width: 94px;
+    height: 26px;
+    text-align: center;
+   line-height: 24px;
+    
+}
+#books .books-r img{
+    width: 94px;
+    height: 38px;
+    margin-left: 20px;
+   padding-top: 10px;
+}
+#books .books-r .ll a{
+    display: inline-block;
+    background-color: #f60;
+    width: 100px;
+    height: 34px;
+    text-align: center;
+    line-height: 36px;
+
+}
+
+#books .books-r .xxx{
+width: 190px;
+height: 60px;
+line-height: 64px;
+/* display: inline-block; */
+text-align: center;
+/* vertical-align: middle; */
+background-color: #f60;
+
+
+}
+.fr1{
+    float: right;
+    margin-right: 500px;
+   
+}
+
+/* 人气单品 */
+#room div li{
+    width: 238px;
+    float: left;
+    list-style: none;
+    text-align:center;
+    
+}
+#room{
+    margin-top: 20px;
+}
+
+#room .like{
+    border-bottom: 2px solid #f60;
+}
+
+#room div li:hover{
+    background-color:#cccccc;
+}
+/* 看了又看 */
+#look .lookm{
+    width: 316px;
+    line-height: 40px;
+}
+
+#look .ebookss li{
+    border-bottom: 1px solid #bfbfbf;
+    margin-top: 60px;
+    padding-bottom: 55px;
+}
+/* #look .ebookss{
+  
+} */
+
+#look .hize{
+    line-height: 40px;
+}
+
+#look .slidebox{
+    display: none;
+    }
+    #look .slidebox.cur{
+ display: block
+    }
+
+#look .diss ul{
+    width: 284px;
+    /* float: left; */
+    margin:48px 0;
+}
+#look .diss .diss-a li .diss-b{
+    width: 105px;
+    line-height: 50px;
+    color: #f8380c;
+    font-size: 72px;
+    text-indent: 28px;
+}
+#look .diss .diss-a li p{
+    width: 59px;
+   line-height: 19px;
+    color: #999999;
+    }
+    #look .diss .diss-a li .diss-c{
+        margin-left: 62px;
+        margin-top: 5px;
+    }
+    #look .dissa li .diss-d span{
+        display: inline-block;
+        width: 146px;
+        height: 16px;
+        background-color: red;
+      
+    }
+    #look .dissa li p{
+        line-height: 30px;
+    }
+    #look .diassb li{
+        width: 142px;
+        float: left;
+        line-height: 30px;
+    }
+    #look .diassb li .diss-e{
+        margin-left: 40px;
+    }
+    #look .diassc{
+       line-height: 30px;
+    }
+    #look .diassd ul{
+        width: 112px;
+        margin-left: 40px;
+       
+    }
+    #look .diassd ul li{
+        line-height: 25px;
+    }
+    #look .diassd .diss-f{
+   
+        color: red;
+        display: inline-block;
+        width: 462px;
+        /* margin-top: 133px; */
+        margin-left: 67px;
+        margin-bottom: 131px;
+  
+      
+    }
+    
+    #look .diss-g li{
+        float: right;
+
+    }
+    #look .diassk li{
+        width: 43px;
+        display: inline-block;
+        height: 20px;
+        margin-left: -20px;
+     /* border: 1px solid red; */
+  
+    }
+
+
+
+
+
+ 
+
+
+
+
