@@ -119,3 +119,10 @@ $(window).scroll(function(){
         $(".topsearch").stop().slideUp();
     }
 })
+// 领劵
+$(".Togoo").hover(function(){
+    $(".din-a").css({display:"block"})
+},function(){
+    $(".din-a").css({display:"none"})
+}
+)

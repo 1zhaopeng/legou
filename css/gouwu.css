@@ -8,6 +8,7 @@ header .top{
     line-height: 28px;
     background-color: #101010;
     width: 100%;
+    position: relative;
 }
 header .top .txtur1{
 color: #e6e6e6;
@@ -21,6 +22,12 @@ header .top .logintxtbox{
 }
 header .top img{
     margin-left: 159px;
+    height: 80px;
+}
+header .xinxi{
+  position: absolute;
+  left: 160px;
+  top: 90px;
 }
 header .top .logintxtbox a{
     color: #f60;
@@ -70,6 +77,42 @@ header .searchbox{
    position: relative;
 }
 
+/* 搜索 */
+#shopcartarea table{
+    width: 100%;
+    border-collapse: collapse;
+}
+#shopcartarea table,td{
+    border: 1px solid #ccc;
+}
+
+#shopcartarea table thead tr,
+#shopcartarea table tfoot tr{
+    line-height: 60px;
+    background-color: #f2f2f2;
+}
+
+#shopcartarea table tbody img{
+    vertical-align: middle;
+}
+#shopcartarea table tbody .reducebtn,
+#shopcartarea table tbody .addbtn
+{
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ccc; 
+    text-align: center;   
+    cursor: pointer;
+    user-select: none;
+}
+
+#shopcartarea table tbody .count{
+width: 100px;
+height: 30px;
+border: 1px solid #ccc;    
+
+}
 
 
 

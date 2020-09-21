@@ -21,7 +21,7 @@ header .top .logintxtbox{
     margin-right:158px;
 }
 header .top img{
-    margin-left: 159px;
+    margin-left: 160px;
 }
 header .top .logintxtbox a{
     color: #f60;
@@ -97,6 +97,10 @@ header .searchbox form .next{
 header .searchbox{
    padding-top: 1px;
 }
+header .landing-b{
+    margin-left: 370px;
+    margin-top: 20px;
+}
 /* 导航栏 */
 #nav li{
     float: left;
@@ -127,19 +131,192 @@ header .searchbox{
     list-style: none;
     width: 175px;
     float: left;
-    margin-top: 30px;
+    margin-top: 22px;
     text-align: center;
+    line-height: 43px;
 }
 #advertising .advertising-c .ind{
     text-align: center;
     width: 350px;
-line-height:  136px;
+line-height:  68px;
+}
+#advertising .advertising-c ul:first-child :nth-child(1){
+    border-bottom: 1px solid #cccccc;
+   
+}
+#advertising .advertising-c ul:first-child :nth-child(2){
+    border-bottom: 1px solid #cccccc;
+}
+#advertising .miks{
+   height: 370px;
 }
 
-header .landing-b{
-    margin-left: 370px;
-    margin-top: 20px;
+/* 登录 */
+
+/* #content .indoor {
+    position: absolute;
+    right: 314px;
+    top: 339px;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 400px;
+    background-color: #fff;
 }
+
+#content .indoor .ind {
+    width: 258px;
+    height: 400px;
+    padding: 20px;
+}
+
+#content .indoor a {
+    line-height: 30px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: normal;
+    cursor: pointer;
+   
+} */
+
+#advertising .advertising-c .conlogn {
+    display: none;
+}
+
+#advertising .advertising-c .conlogn input {
+    border: 1px solid #ccc;
+    width: 251px;
+    height: 38px;
+    margin-bottom: 35px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    text-indent: 40px;
+    outline: none;
+    /* display: none; */
+    margin-left: 44px;
+   
+}
+
+#advertising .advertising-c input[type='submit'] {
+    color: #fff;
+    background-color: #ff6700;
+    border: none;
+    text-indent: 0;
+}
+
+#advertising .advertising-c p {
+    position: relative;
+}
+
+#advertising .advertising-c .conlogn span {
+    position: absolute;
+    /* top: 2px; */
+    left: 45px;
+    width: 37px;
+    height: 39px;
+    background: url(../img/pwd-icons-new.png);
+}
+
+#advertising .advertising-c .conlogn .icon_del {
+    position: absolute;
+    top: 13px;
+    right: 12px;
+    width: 19px;
+    height: 16px;
+    background: url(../img/pwd-icons-new.png);
+    background-position: -48px -142px;
+    background-color: 0;
+    display: none;
+    cursor: pointer;
+}
+#advertising .sadd{
+    position: absolute;
+    left: 0px;
+    top: -22px;
+}
+
+
+/* 自动登录 */
+
+#advertising .chlogin {
+    width: 15px !important;
+    height: 20px !important;
+    border-radius: 0;
+}
+
+
+/* 忘记密码 */
+
+#advertising .forget {
+    font-size: 14px !important;
+    position: absolute;
+    right: 47px;
+    top: -22px;
+}
+
+
+/* 立即注册 */
+
+#advertising .registers {
+    position: absolute;
+    height: 50px;
+    background-color: #fcfcfc;
+    line-height: 50px;
+    border-top: 2px solid #ccc;
+    text-align: center;
+    width: 350px;
+    bottom: 0;
+
+}
+
+#advertising .registers .icon_reg {
+    position: absolute;
+    top: 15px;
+    left: 92px;
+    width: 17px;
+    height: 19px;
+    background: url(../img/pwd-icons-new.png);
+    background-position: -103px -75px;
+}
+
+#advertising .registers a {
+    color: #ff6700;
+}
+
+#advertising .advertising-c .conlogn .icon_name {
+    background-position: 0 0;
+}
+
+#advertising .advertising-c .conlogn .icon_pwd {
+    background-position: -50px 1px;
+}
+
+#advertising .advertising-c .delImg {
+    position: absolute;
+    right: 9px;
+    top: 13px;
+    width: 20px;
+    display: none;
+}
+
+#advertising .advertising-c .cloImg {
+    position: absolute;
+    right: 68px;
+    top: 9px;
+    width: 20px;
+}
+
+#advertising .advertising-c .close {
+    cursor: pointer;
+    position: absolute;
+    right: 4px;
+    top: 3px;
+    font-size: 24px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    background-color: #ccc;
+}
+
 
 
 /* 页尾 */

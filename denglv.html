@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <header class="lg-container">
+    <header>
         <div class="top logintxtbox clearfix  ">
             <div class="clearfix">
                 <h2>
@@ -35,25 +35,63 @@
             </div>
         </div>
         <div class="landing">
-                <p class="landing-b f30 col60">欢迎登陆</p>
-            </div>
+            <p class="landing-b f30 col60">欢迎登陆</p>
+        </div>
     </header>
-   
-    <section id="advertising" class="clearfix lg-container">
+
+    <section id="advertising" class="clearfix " width="100%">
         <div class="advertising-a">
             <p class="">
-                <img src="./img/loginl_001.jpg" alt="" style="width: 1200px;height: 480px;">
+                <img src="./img/loginl_001.jpg" alt="" style="height: 480px;">
             </p>
             <div class="advertising-c bcf4">
                 <ul>
-                    <li>扫码登录</li>
-                    <li>账户登录</li>
+                    <li class="ma">扫码登录</li>
+                    <li class="nike">账户登录</li>
                 </ul>
-                <ul>
-                    <li><p><img src="./img/show.png" alt=""></p></li>
-                    <li><p><img src="img/phone-orange.png" alt=""></p></li>
+                <ul class="miks">
+                    <li>
+                        <p>
+                            <img src="./img/show.png" alt="">
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <img src="img/phone-orange.png" alt="">
+                        </p>
+                    </li>
+                    <li>
+                        <div class="ind">打开手机版 乐购APP 扫一扫</div>
+                    </li>
                 </ul>
-               <div class="ind">打开手机版 乐购APP  扫一扫</div>
+                <div class="conlogn" style="margin-top: 84px;">
+                    <form action="#" method="GET" id="myform">
+                        <p>
+                            <span class="icon_name"></span>
+                            <input type="text" name="username" id="user" placeholder="账号" value="" required>
+                            <i class="icon_del"></i>
+                        </p>
+                        <p>
+                            <span class="icon_pwd"></span>
+                            <input type="password" name="pasw" id="pasw" placeholder="密码" required>
+                            <img class="cloImg" src="./img/close.png" alt="">
+                        </p>
+                        <p class="clearfix">
+                            <input type="submit" value="登录">
+                            <a href="" class="sadd">
+                                <input type="checkbox" name="check" class="chlogin fl">自动登录
+                            </a>
+                            <a href="javascript:;" class="forget">忘记密码？</a>
+                        </p>
+                        <div class="registers">
+                            <i class="icon_reg"></i>
+                            <a href="./register.html">立即注册</a>
+                        </div>
+                    </form>
+
+
+                </div>
+
             </div>
 
         </div>
